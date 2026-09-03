@@ -25,17 +25,11 @@
     <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </p>
 
-  <br/>
-
-  <!-- 4. قسم الإحصائيات (صورة الرسم البياني) -->
-  <h2>🎯 Statistics</h2>
-  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/activity_graph.png.jpeg" width="100%" alt="Activity Graph"/>
-
   <br/><br/>
 
 </div>
 
-<!-- 5. قسم نبذة عني وصورة الأفاتار الكرتونية -->
+<!-- 4. قسم نبذة عني وصورة الأفاتار الكرتونية -->
 <h2>🎯 About Me</h2>
 
 <p align="center">
@@ -45,11 +39,8 @@
 
 <br clear="all"/><br/>
 
-<!-- 6. قسم الهوايات والأهداف -->
+<!-- 5. قسم الهوايات والأهداف -->
 <div align="center">
   <h2>🎯 Hobbies & Goals</h2>
   <p>"Continuous learning is the key to building innovative solutions."</p>
 </div>
-
-
-<!-- قسم الهوايات والأهداف -->
