@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. صورة البانر العلوي -->
-  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/banner.png" width="100%" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/banner.png.jpeg" width="100%" alt="Header Banner"/>
 
   <br/><br/>
 
@@ -29,7 +29,7 @@
 
   <!-- 4. قسم الإحصائيات (صورة الرسم البياني) -->
   <h2>🎯 Statistics</h2>
-  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/activity_graph.png" width="100%" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/activity_graph.png.jpeg" width="100%" alt="Activity Graph"/>
 
   <br/><br/>
 
@@ -39,7 +39,7 @@
 <h2>🎯 About Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/avatar.png" width="180" align="left" style="margin-right: 20px;" alt="Yasmin Avatar"/>
+  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/avatar.png.jpeg" width="180" align="left" style="margin-right: 20px;" alt="Yasmin Avatar"/>
   Hi! I am Yasmin, a student at the Faculty of Engineering, Cairo University. I am deeply interested in programming, Artificial Intelligence, and developing innovative solutions through technology.
 </p>
 
