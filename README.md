@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Banner علوي -->
-  <img src="ضعي_هنا_رابط_صورة_البانر" width="100%" alt="Header Banner"/>
+  <!-- البانر العلوي -->
+  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/banner.png" width="100%" alt="Header Banner"/>
 
   <br/><br/>
 
   <!-- أزرار التواصل -->
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@gmail.com">
@@ -15,7 +15,7 @@
 
   <br/><br/>
 
-  <!-- قسم التقنيات -->
+  <!-- التقنيات -->
   <h2>🎯 Technologies</h2>
   <p>
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,9 +27,9 @@
 
   <br/>
 
-  <!-- قسم الإحصائيات -->
+  <!-- الرسم البياني الديناميكي عالي الجودة -->
   <h2>🎯 Statistics</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminmohamed-eng&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminmohamed-eng&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"/>
 
   <br/><br/>
 
@@ -39,15 +39,17 @@
 <h2>🎯 About Me</h2>
 
 <p align="center">
-  <img src="ضعي_هنا_رابط_صورة_الأفاتار" width="180" align="left" style="margin-right: 20px;"/>
+  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/avatar.png" width="180" align="left" style="margin-right: 20px;" alt="Yasmin Avatar"/>
   Hi! I am Yasmin, a student at the Faculty of Engineering, Cairo University. I am deeply interested in programming, Artificial Intelligence, and developing innovative solutions through technology.
 </p>
 
 <br clear="all"/><br/>
 
-<!-- قسم الهوايات والأهداف -->
+<!-- الهوايات والأهداف -->
 <div align="center">
   <h2>🎯 Hobbies & Goals</h2>
   <p>"Continuous learning is the key to building innovative solutions."</p>
 </div>
+
+
 <!-- قسم الهوايات والأهداف -->
