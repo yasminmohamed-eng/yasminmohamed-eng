@@ -39,8 +39,9 @@
 <h2>🎯 About Me</h2>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" width="180" align="left" style="margin-right: 20px;"/>
-  أهلاً! أنا ياسمين، طالبة هندسة مهتمة بتطوير البرمجيات وبناء التطبيقات وحل المشكلات. أعمل حالياً على تطوير مهاراتي في البرمجة باستخدام Python و C++ والدخول في تحديات الـ Hackathons.
+  <img src="https://via.placeholder.com/150" width="180" align="left" style="margin-right: 20px;"
+    Hi Iam Yasmin Student at faculty of enguneering cairo university 
+    Iam interested in programming and AI 
 </p>
 
 <br clear="all"/><br/>
