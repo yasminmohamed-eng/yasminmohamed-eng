@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner علوي -->
-  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/banner.png" width="100%" alt="Header Banner"/>
+  <img src="ضعي_هنا_رابط_صورة_البانر" width="100%" alt="Header Banner"/>
 
   <br/><br/>
 
@@ -39,7 +39,7 @@
 <h2>🎯 About Me</h2>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" width="180" align="left" style="margin-right: 20px;"/>
+  <img src="ضعي_هنا_رابط_صورة_الأفاتار" width="180" align="left" style="margin-right: 20px;"/>
   Hi! I am Yasmin, a student at the Faculty of Engineering, Cairo University. I am deeply interested in programming, Artificial Intelligence, and developing innovative solutions through technology.
 </p>
 
