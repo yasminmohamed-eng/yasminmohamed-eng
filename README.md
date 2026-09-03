@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yasminmohamed-eng/yasminmohamed-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Banner علوي -->
+  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/banner.png" width="100%" alt="Header Banner"/>
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- أزرار التواصل -->
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- قسم التقنيات -->
+  <h2>🎯 Technologies</h2>
+  <p>
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </p>
+
+  <br/>
+
+  <!-- قسم الإحصائيات -->
+  <h2>🎯 Statistics</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminmohamed-eng&theme=react-dark&hide_border=true" width="100%"/>
+
+  <br/><br/>
+
+</div>
+
+<!-- قسم نبذة عني -->
+<h2>🎯 About Me</h2>
+
+<p align="center">
+  <img src="https://via.placeholder.com/150" width="180" align="left" style="margin-right: 20px;"/>
+  أهلاً! أنا ياسمين، طالبة هندسة مهتمة بتطوير البرمجيات وبناء التطبيقات وحل المشكلات. أعمل حالياً على تطوير مهاراتي في البرمجة باستخدام Python و C++ والدخول في تحديات الـ Hackathons.
+</p>
+
+<br clear="all"/><br/>
+
+<!-- قسم الهوايات والأهداف -->
+<div align="center">
+  <h2>🎯 Hobbies & Goals</h2>
+  <p>"Continuous learning is the key to building innovative solutions."</p>
+</div>
