@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- البانر العلوي -->
+  <!-- 1. صورة البانر العلوي -->
   <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/banner.png" width="100%" alt="Header Banner"/>
 
   <br/><br/>
 
-  <!-- أزرار التواصل -->
+  <!-- 2. أزرار التواصل -->
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -15,7 +15,7 @@
 
   <br/><br/>
 
-  <!-- التقنيات -->
+  <!-- 3. قسم التقنيات -->
   <h2>🎯 Technologies</h2>
   <p>
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,15 +27,15 @@
 
   <br/>
 
-  <!-- الرسم البياني الديناميكي عالي الجودة -->
+  <!-- 4. قسم الإحصائيات (صورة الرسم البياني) -->
   <h2>🎯 Statistics</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminmohamed-eng&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/activity_graph.png" width="100%" alt="Activity Graph"/>
 
   <br/><br/>
 
 </div>
 
-<!-- قسم نبذة عني -->
+<!-- 5. قسم نبذة عني وصورة الأفاتار الكرتونية -->
 <h2>🎯 About Me</h2>
 
 <p align="center">
@@ -45,7 +45,7 @@
 
 <br clear="all"/><br/>
 
-<!-- الهوايات والأهداف -->
+<!-- 6. قسم الهوايات والأهداف -->
 <div align="center">
   <h2>🎯 Hobbies & Goals</h2>
   <p>"Continuous learning is the key to building innovative solutions."</p>
