@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 1. صورة البانر العلوي -->
-  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/banner.png.jpeg" width="100%" alt="Header Banner"/>
+  <!-- 1. صورة البانر العلوي (معدل إلى png.jpg) -->
+  <img src="https://raw.githubusercontent.com/yasminmohamed-eng/yasminmohamed-eng/main/banner.png.jpg" width="100%" alt="Header Banner"/>
 
   <br/><br/>
 
@@ -44,3 +44,4 @@
   <h2>🎯 Hobbies & Goals</h2>
   <p>"Continuous learning is the key to building innovative solutions."</p>
 </div>
+  
