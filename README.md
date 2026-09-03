@@ -39,9 +39,8 @@
 <h2>🎯 About Me</h2>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" width="180" align="left" style="margin-right: 20px;"
-    Hi Iam Yasmin Student at faculty of enguneering cairo university 
-    Iam interested in programming and AI 
+  <img src="https://via.placeholder.com/150" width="180" align="left" style="margin-right: 20px;"/>
+  Hi! I am Yasmin, a student at the Faculty of Engineering, Cairo University. I am deeply interested in programming, Artificial Intelligence, and developing innovative solutions through technology.
 </p>
 
 <br clear="all"/><br/>
@@ -51,3 +50,4 @@
   <h2>🎯 Hobbies & Goals</h2>
   <p>"Continuous learning is the key to building innovative solutions."</p>
 </div>
+<!-- قسم الهوايات والأهداف -->
